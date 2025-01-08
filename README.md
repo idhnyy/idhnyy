@@ -1,4 +1,4 @@
 
-### Hello! I am Julia :3
+### Hello! I'm Julia
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idhnyy&layout=compact&theme=dark)
 
